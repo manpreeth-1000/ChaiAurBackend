@@ -2,7 +2,7 @@
   "name": "chaiaurbackend2",
   "version": "1.0.0",
   "description": "backend youtube project",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "run": "nodemon src/index.js"
@@ -14,6 +14,7 @@
   "author": "Manpreeth",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
   }
 }
